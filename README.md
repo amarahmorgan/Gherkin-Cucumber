@@ -9,19 +9,6 @@
 
 ---
 
-<!-- 💎 BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-18+-green?logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cucumber-BDD-brightgreen?logo=cucumber"/>
-  <img src="https://img.shields.io/badge/Gherkin-Specification-orange"/>
-  <img src="https://img.shields.io/badge/Test-Automation-blue"/>
-  <img src="https://img.shields.io/badge/CI-CD-Ready-purple"/>
-  <img src="https://img.shields.io/badge/QA-Engineer-black"/>
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-success"/>
-</p>
-
----
-
 # 🥒 Gherkin & Cucumber BDD Automation Framework
 BDD test automation using gherkin and cucumber to define and execute readable test scenarios for validating application functionality
 
