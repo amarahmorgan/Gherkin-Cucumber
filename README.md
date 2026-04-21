@@ -44,3 +44,7 @@ It focuses on converting human-readable requirements into automated tests that v
 - 📊 Improve regression testing efficiency  
 
 ---
+👩‍💻 Author
+<p align="center"> <b>QA Automation Engineer (In Training) 🚀</b><br/> Building real-world test automation frameworks & QA skills </p>
+⭐ Support
+<p align="center"> If you like this project, give it a ⭐ and follow for more QA builds 🧪 </p> ```
