@@ -1,3 +1,26 @@
+<!-- 🔥 ANIMATED HEADER -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
+
+<h1 align="center">🥒 QA BDD AUTOMATION FRAMEWORK</h1>
+
+<h3 align="center">Cucumber + Gherkin | Test Automation | QA Engineering Portfolio</h3>
+
+---
+
+<!-- 💎 BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-18+-green?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cucumber-BDD-brightgreen?logo=cucumber"/>
+  <img src="https://img.shields.io/badge/Gherkin-Specification-orange"/>
+  <img src="https://img.shields.io/badge/Test-Automation-blue"/>
+  <img src="https://img.shields.io/badge/CI-CD-Ready-purple"/>
+  <img src="https://img.shields.io/badge/QA-Engineer-black"/>
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-success"/>
+</p>
+
+---
 
 # 🥒 Gherkin & Cucumber BDD Automation Framework
 BDD test automation using gherkin and cucumber to define and execute readable test scenarios for validating application functionality
@@ -44,7 +67,15 @@ It focuses on converting human-readable requirements into automated tests that v
 - 📊 Improve regression testing efficiency  
 
 ---
-👩‍💻 Author
+🧪 WHY THIS PROJECT MATTERS
+
+✔ Real-world QA automation structure
+✔ Industry-standard BDD implementation
+✔ Scalable framework design
+✔ Supports regression testing strategy
+✔ Demonstrates QA engineering readiness
+
+---
+
 <p align="center"> <b>QA Automation Engineer (In Training) 🚀</b><br/> Building real-world test automation frameworks & QA skills </p>
-⭐ Support
-<p align="center"> If you like this project, give it a ⭐ and follow for more QA builds 🧪 </p> ```
+<p align="center"> If this project helped or impressed you → ⭐ STAR IT<br/> Because this is not just testing… this is engineering 🧪🔥 </p> ```
