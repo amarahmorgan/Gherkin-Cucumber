@@ -2,11 +2,6 @@
 # 🥒 Gherkin & Cucumber BDD Automation Framework
 BDD test automation using gherkin and cucumber to define and execute readable test scenarios for validating application functionality
 
-<!-- 🌈 HEADER -->
-<p align="center">
-  <img src="https://i.imgur.com/3QvQ9Xx.png" width="100%" />
-</p>
-
 <h1 align="center">🥒 BDD Automation Framework</h1>
 <h3 align="center">Cucumber + Gherkin | QA Automation Project</h3>
 
