@@ -11,6 +11,15 @@ BDD test automation using gherkin and cucumber to define and execute readable te
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-18+-green?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cucumber-BDD-brightgreen?logo=cucumber"/>
+  <img src="https://img.shields.io/badge/Test-Automation-blue"/>
+  <img src="https://img.shields.io/badge/Status-Active-success"/>
+  <img src="https://img.shields.io/badge/QA-Engineer-purple"/>
+</p>
+
 > 🧪 Behaviour-Driven Development (BDD) test automation using Gherkin + Cucumber
 
 ---
