@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@500;700;800&display=swap');
+
+:root {
+  --primary: #006b32;
+  --secondary-container: #f0e400;
+  --on-secondary-container: #1e1c00;
+  --surface-container-lowest: #ffffff;
+  --surface-container-low: #f6f2f5;
+  --surface: #fcf8fa;
+  --on-surface: #1c1b1d;
+  --on-surface-variant: #3d4a3e;
+  --outline: #6d7b6d;
+
+  --sans: 'Inter', 'Segoe UI', sans-serif;
+  --heading: 'Plus Jakarta Sans', 'Segoe UI', sans-serif;
+
+  font-family: var(--sans);
+  line-height: 1.4;
+  color: var(--on-surface);
+  background: var(--surface);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at 10% 20%, rgba(0, 107, 50, 0.07) 0, transparent 36%),
+    radial-gradient(circle at 92% 8%, rgba(240, 228, 0, 0.15) 0, transparent 26%),
+    var(--surface);
+}
+
+#root {
+  min-height: 100vh;
+}
